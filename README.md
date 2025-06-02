@@ -24,6 +24,13 @@
 
 ---
 
+### interesting projects that I tried
+- [Using Ollama Phi3 with Simple Prompts](./notebooks/ollama_phi3_simple_prompts.ipynb) - Green approach to LLM - phi3 is just a couple of GBs - running locally
+- [prd Documents of hackathon agent](./notebooks/hackathon-agent-prompt.md) [Hackathon Agent python notebook](./notebooks/hackathon-multi-agent-autogen.ipynb)
+
+
+---
+
 - Fundamental concepts of AI Agents - Components and architecture
 - Different types of AI Agents and their use cases: Simple reflex, Model-based, Goal-based, Learning, and Advanced AI agents
 - Using LangGraph to create agentic system for shop hours inquiry
@@ -157,7 +164,7 @@ According to ISO, an AI agent is an entity that **senses percepts** using sensor
 
 # Building with CrewAI: Returns and Refunds
 
-- **Use Case**: Carved Rock Fitness needs a self-service solution for returns and refunds. Needs to analyze customer feedback sentiment.
+- **Use Case**: Company needs a self-service solution for returns and refunds. Needs to analyze customer feedback sentiment.
 - **Framework**: **CrewAI**, an open-source framework.
 - **Concept**: Lets you create **AI crews** – a team of specialized AI agents working together to tackle complex tasks. Helps create an organization of agents with specialized roles.
 - **Key Components**:
